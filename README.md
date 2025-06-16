@@ -1,4 +1,4 @@
-# Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich
+# Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich Transcripts
 This repository contains the codes for the INTERSPEECH2025 workshop [DISS2025](https://diss2025.inesc-id.pt/) paper [Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich Transcripts](). 
 
 ## Overview
