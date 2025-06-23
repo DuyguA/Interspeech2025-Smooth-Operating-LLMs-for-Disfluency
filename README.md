@@ -11,7 +11,7 @@ Our work presents a novel approach to detecting and transcribing disfluencies in
 </p>
 
 ## Setup
-For firing up the experiment run `train.py` directly. Be careful that the script needs 2 GPUs, LLaMa and Conformer models will be placed to one GPU each. 
+For firing up the experiment run `run.sh` directly. Be careful that the script needs 2 GPUs, LLaMa and Conformer models will be placed to one GPU each. 
 
 
 ## Citation
